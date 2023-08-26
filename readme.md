@@ -1,4 +1,4 @@
-# Change-Color and Change-Shape Web App  [Link]()
+# Change-Color and Change-Shape Web App  [Link](https://abhilashtengli.github.io/Change_Color_or_Shape/)
 
 
 This is a basic web application that allows users to change the color and shape of a circle element using buttons.
@@ -34,4 +34,4 @@ This web application demonstrates the use of HTML, CSS, and JavaScript to create
 
 Here's a quick demo of the application:
 
-[Link]()
+[Link](https://abhilashtengli.github.io/Change_Color_or_Shape/)
